@@ -1,0 +1,42 @@
+Report for rental office: 
+Rental Office ID: 1
+Location zip code is: 60604
+Inventories list: 
+	 Inventoy ID: 1, Inventory type: CAR
+	 Vehicle ID: 1, Make: Toyota, Model: Camry, year: 2020, mileage: 12000.0, type: CAR, available: false, Daily rate: $20.0
+	 Vehicle ID: 2, Make: Honda, Model: Civic, year: 2019, mileage: 10000.0, type: CAR, available: true, Daily rate: $15.0
+	 Inventoy ID: 2, Inventory type: SUV
+	 Vehicle ID: 3, Make: Ford, Model: Explorer, year: 2018, mileage: 15000.0, type: SUV, available: false, Daily rate: $25.0
+	 Inventoy ID: 3, Inventory type: TRUCK
+	 Vehicle ID: 4, Make: Chevrolet, Model: Silverado, year: 2017, mileage: 20000.0, type: TRUCK, available: true, Daily rate: $30.0
+Order History: 
+	 Order: 1
+	 Name: Snoop Dogg
+	 Discount: 10
+	 Vehicle details: 
+	 Vehicle ID: 1
+	 Make: Toyota
+	 Model: Camry
+	 Year: 2020
+	 Mileage: 12000.0
+	 Type: CAR
+	 is Available? false
+	 Daily Rate: 20.0
+	 Rental Length: 3
+	 Total Cost: $54.0
+
+	 Order: 2
+	 Name: DePaul University.
+	 Discount: 15
+	 Vehicle details: 
+	 Vehicle ID: 3
+	 Make: Ford
+	 Model: Explorer
+	 Year: 2018
+	 Mileage: 15000.0
+	 Type: SUV
+	 is Available? false
+	 Daily Rate: 25.0
+	 Rental Length: 5
+	 Total Cost: $106.25
+
